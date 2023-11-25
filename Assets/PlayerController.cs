@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     // variables
     [SerializeField] private LayerMask platformsLayerMask;
-    public float speed = 3.0f;
+    public float speed = 6.0f;
     private bool walking = false;
     public Vector2 lastMovment = Vector2.zero;
     
