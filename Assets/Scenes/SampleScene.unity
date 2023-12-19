@@ -159,7 +159,7 @@ MonoBehaviour:
   platformsLayerMask:
     serializedVersion: 2
     m_Bits: 512
-  speed: 10
+  speed: 15
   lastMovment: {x: 0, y: 0}
 --- !u!95 &475216699
 Animator:
